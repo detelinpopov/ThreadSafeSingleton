@@ -1,0 +1,6 @@
+C:\Users\devadmin\Desktop\ThreadSafeSingleton\bin\Debug\ThreadSafeSingleton.exe.config
+C:\Users\devadmin\Desktop\ThreadSafeSingleton\bin\Debug\ThreadSafeSingleton.exe
+C:\Users\devadmin\Desktop\ThreadSafeSingleton\bin\Debug\ThreadSafeSingleton.pdb
+C:\Users\devadmin\Desktop\ThreadSafeSingleton\obj\Debug\ThreadSafeSingleton.csprojResolveAssemblyReference.cache
+C:\Users\devadmin\Desktop\ThreadSafeSingleton\obj\Debug\ThreadSafeSingleton.exe
+C:\Users\devadmin\Desktop\ThreadSafeSingleton\obj\Debug\ThreadSafeSingleton.pdb
